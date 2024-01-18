@@ -1,0 +1,7 @@
+.idea
+*.iml
+logs/
+.env
+.env.test
+tmp
+logs
